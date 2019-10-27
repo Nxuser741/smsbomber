@@ -1,8 +1,6 @@
 /**
  * 
- * Installisasi
- * [LINUX] apt-get install libcurl4-openssl-dev
- * [LINUX] apt-get install libcurl4-gnutls-dev
+ * Use Server From Pizza Hut Indon
  * 
  */
 
